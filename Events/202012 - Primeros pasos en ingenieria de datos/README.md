@@ -1,7 +1,5 @@
 # Primeros pasos en ingeniería de datos con Apache Spark
 
-Fecha: 16 de Diciembre 2020
-
 ¿Quieres empezar en el mundo de la ingeniería de datos y no sabes cómo? En esta oportunidad Daniel Portugal Data Engineer en Rappi nos cuenta de que se trata esta profesión y herramientas podrías ser útiles en el proceso.
 
 ## Presentación:
